@@ -1,0 +1,41 @@
+{
+  "logs": [
+    {
+      "id": "log001",
+      "timestamp": "2023-06-15T10:30:00Z",
+      "type": "user",
+      "action": "approve",
+      "details": "الموافقة على المستخدم: محمد سعيد (mohamed@example.com)",
+      "user_id": "admin001",
+      "user_name": "مدير النظام"
+    },
+    {
+      "id": "log002",
+      "timestamp": "2023-06-10T14:20:00Z",
+      "type": "auth",
+      "action": "login",
+      "details": "تسجيل دخول بالبريد الإلكتروني: admin@example.com",
+      "user_id": "admin001",
+      "user_name": "مدير النظام"
+    },
+    {
+      "id": "log003",
+      "timestamp": "2023-06-05T09:15:00Z",
+      "type": "user",
+      "action": "register",
+      "details": "تسجيل مستخدم جديد: فاطمة علي (fatima@example.com)",
+      "user_id": "user002",
+      "user_name": "فاطمة علي"
+    },
+    {
+      "id": "log004",
+      "timestamp": "2023-05-20T11:45:00Z",
+      "type": "github",
+      "action": "sync",
+      "details": "مزامنة البيانات مع GitHub",
+      "user_id": "admin001",
+      "user_name": "مدير النظام"
+    }
+  ],
+  "last_updated": "2025-04-17T18:08:44.768Z"
+}
